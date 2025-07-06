@@ -1,0 +1,43 @@
+===== VERIFICACIÓN DE ARCHIVOS - CONJUNTO =====
+Estructura de directorios creada:
+/mnt/almacenamiento_alumnoA
+/mnt/almacenamiento_alumnoA/temporal
+/mnt/almacenamiento_alumnoA/proyectos
+/mnt/almacenamiento_alumnoA/proyectos/archivados
+/mnt/almacenamiento_alumnoA/proyectos/activos
+/mnt/almacenamiento_alumnoA/lost+found
+/mnt/almacenamiento_alumnoA/respaldos
+Archivos en cada directorio:
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:14 /mnt/almacenamiento_alumnoA/proyectos/archivados/documento_08.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:14 /mnt/almacenamiento_alumnoA/proyectos/archivados/documento_07.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:14 /mnt/almacenamiento_alumnoA/proyectos/archivados/documento_06.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_alumnoA/proyectos/activos/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_alumnoA/proyectos/activos/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_alumnoA/proyectos/activos/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_alumnoA/proyectos/activos/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_alumnoA/proyectos/activos/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:46 /mnt/almacenamiento_alumnoA/respaldos/documento_09.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:46 /mnt/almacenamiento_alumnoA/respaldos/documento_10.txt
+
+===== VERIFICACIÓN DE ARCHIVOS - CONJUNTO =====
+===== VERIFICACIÓN DE ARCHIVOS - CONJUNTO =====
+Estructura de directorios creada:
+/mnt/almacenamiento_alumnoA
+/mnt/almacenamiento_alumnoA/temporal
+/mnt/almacenamiento_alumnoA/proyectos
+/mnt/almacenamiento_alumnoA/proyectos/archivados
+/mnt/almacenamiento_alumnoA/proyectos/activos
+/mnt/almacenamiento_alumnoA/lost+found
+/mnt/almacenamiento_alumnoA/respaldos
+Archivos en cada directorio:
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:14 /mnt/almacenamiento_alumnoA/proyectos/archivados/documento_08.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:14 /mnt/almacenamiento_alumnoA/proyectos/archivados/documento_07.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:14 /mnt/almacenamiento_alumnoA/proyectos/archivados/documento_06.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_alumnoA/proyectos/activos/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_alumnoA/proyectos/activos/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_alumnoA/proyectos/activos/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_alumnoA/proyectos/activos/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_alumnoA/proyectos/activos/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:46 /mnt/almacenamiento_alumnoA/respaldos/documento_09.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:46 /mnt/almacenamiento_alumnoA/respaldos/documento_10.txt
+
